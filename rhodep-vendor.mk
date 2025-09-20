@@ -3110,7 +3110,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/rhodep/proprietary/vendor/etc/sensors/config/stk3a5x_0_DVT1.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/stk3a5x_0_DVT1.json \
     vendor/motorola/rhodep/proprietary/vendor/etc/sensors/config/stk3a5x_0_DVT2.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/stk3a5x_0_DVT2.json \
     vendor/motorola/rhodep/proprietary/vendor/etc/sensors/sns_reg_config:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sns_reg_config \
-    vendor/motorola/rhodep/proprietary/vendor/etc/thermal-engine-rhodep.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-rhodep.conf \
     vendor/motorola/rhodep/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/motorola/rhodep/proprietary/vendor/etc/vhw.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vhw.xml \
     vendor/motorola/rhodep/proprietary/vendor/firmware/aw882xx_pid_2113_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_2113_acf.bin \

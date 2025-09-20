@@ -3313,5 +3313,5 @@ PRODUCT_PACKAGES += \
     capsense_reset \
     android.hardware.biometrics.fingerprint@2.1-focalservice \
     android.hardware.biometrics.fingerprint@2.1-service-ets \
-    motorola.hardware.camera.desktop@2.0-service
+    motorola.hardware.camera.desktop@2.0-service \
     motsettings

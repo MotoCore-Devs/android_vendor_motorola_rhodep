@@ -3258,9 +3258,14 @@ PRODUCT_PACKAGES += \
     libjpege \
     liblowlight_ai_portrait.arcsoft \
     libmctfengine_stub \
+    libmmcamera_bestats \
     libmmcamera_cac3 \
+    libmmcamera_faceproc \
+    libmmcamera_faceproc2 \
+    libmmcamera_lscv35 \
     libmmcamera_mfnr \
     libmmcamera_mfnr_t4 \
+    libmmcamera_pdpc \
     libmot_afd \
     libmotoisdataqueue \
     libmpbase \
